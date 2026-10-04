@@ -14,7 +14,7 @@ repository               : "ManpreetSinghGiorgio/ManpreetSinghGiorgio.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png" # Put profile.png into /images/ folder
+  avatar           : "/images/profile.png" # Put profile.png into /images/ folder
   name             : "Manpreet Singh"
   pronouns         : 
   bio              : "Applied Economics, Finance & Geo-Economic Surveillance"
